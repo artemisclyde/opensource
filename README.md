@@ -4,6 +4,7 @@ Personal journey to go open source as much as possible.
 ## Laptop
 | Software | Name | Description | Reason/Comment |
 | --- | --- | --- | --- |
+| OS | [Manjaro Linux](https://de.manjaro.org/) | KDE Distro | Used Arch before but maintenance was too cumbersome |
 | Browser | [Firefox](https://www.mozilla.org/en-US/firefox/) | | Avoid Google Chrome |
 | Mail-Client | [Thunderbird](https://www.thunderbird.net/) | | |
 
