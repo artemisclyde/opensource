@@ -5,6 +5,7 @@ Personal journey to go open source as much as possible.
 | Software | Name | Description | Reason/Comment |
 | --- | --- | --- | --- |
 | Browser | [Firefox](https://www.mozilla.org/en-US/firefox/) | | Avoid Google Chrome |
+| Mail-Client | [Thunderbird](https://www.thunderbird.net/) | | |
 
 ## Phone
 I'm currently using the Fairphone 2 with the Fairphone Open OS.
