@@ -8,6 +8,11 @@ Personal journey to go open source as much as possible.
 | Browser | [Firefox](https://www.mozilla.org/en-US/firefox/) | | Avoid Google Chrome |
 | Mail-Client | [Thunderbird](https://www.thunderbird.net/) | | |
 | SQL | [DBeaver](https://dbeaver.io/) | | |
+| Image manipulation | [Gimp](https://www.gimp.org/) | | |
+| Vector graphics | [Inkscape](https://inkscape.org/) | | |
+| Video player | [VLC Player](https://www.videolan.org/vlc/) | | |
+
+
 
 ## Phone
 I'm currently using the Fairphone 2 with the Fairphone Open OS.
@@ -15,3 +20,4 @@ I'm currently using the Fairphone 2 with the Fairphone Open OS.
 | Software | Name | Description | Reason/Comment |
 | --- | --- | --- | --- |
 | Google Apps | OpenGAPPS | | Still using some Google apps, but this way I control which ones ([flashed OpenGAPPS pico package](https://forum.fairphone.com/t/pencil2-install-opengapps-step-by-step-guide/17524?u=johannes&source_topic_id=22507) using  [TWRP](https://twrp.me/)) |
+| FOSS Playstore | [F-Droid](https://f-droid.org/) | | |
