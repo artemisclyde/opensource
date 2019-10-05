@@ -12,6 +12,7 @@ Personal journey to go open source as much as possible.
 | Vector graphics | [Inkscape](https://inkscape.org/) | | |
 | Video player | [VLC Player](https://www.videolan.org/vlc/) | | |
 | Backup | [Back in time](https://github.com/bit-team/backintime) | | |
+| Hardware monitoring | [i-nex](https://github.com/i-nex/I-Nex) | | |
 
 
 
