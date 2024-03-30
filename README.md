@@ -8,6 +8,7 @@ Personal journey to go open source as much as possible.
 | Browser | [Firefox](https://www.mozilla.org/en-US/firefox/) | | Avoid Google Chrome |
 | Mail-Client | [Thunderbird](https://www.thunderbird.net/) | | |
 | SQL | [DBeaver](https://dbeaver.io/) | | |
+| Terminal | [Alacritty](https://alacritty.org/) | | |
 | Image manipulation | [Gimp](https://www.gimp.org/) | | |
 | Vector graphics | [Inkscape](https://inkscape.org/) | | |
 | Video player | [VLC Player](https://www.videolan.org/vlc/) | | |
