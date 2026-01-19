@@ -13,7 +13,7 @@ Personal journey to go open source as much as possible.
 | Vector graphics | [Inkscape](https://inkscape.org/) | | |
 | Video player | [VLC Player](https://www.videolan.org/vlc/) | | |
 | Window management | [Rectangle](https://rectangleapp.com/) | | |
-| Backup | [Free File Sync]([https://github.com/bit-team/backintime](https://freefilesync.org/)) | | |
+| Backup | [Free File Sync](https://freefilesync.org/) | | |
 | Hardware monitoring | [i-nex](https://github.com/i-nex/I-Nex) | | |
 
 
