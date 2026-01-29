@@ -1,28 +1,32 @@
 # opensource
-Personal journey to go open source as much as possible.
+Personal journey to go open source and decentralised as much as possible.
 
-## Laptop
-| Software | Name | Description | Reason/Comment |
+
+## Social
+| Platform type | Name | Alternative to | Reason/Comment |
 | --- | --- | --- | --- |
-| OS | [Manjaro Linux](https://de.manjaro.org/) | KDE Distro | Used Arch before but maintenance was too cumbersome |
-| Browser | [Firefox](https://www.mozilla.org/en-US/firefox/) | | Avoid Google Chrome |
-| Mail-Client | [Thunderbird](https://www.thunderbird.net/) | | |
-| SQL | [DBeaver](https://dbeaver.io/) | | |
-| Terminal | [Alacritty](https://alacritty.org/) | | |
-| Image manipulation | [Gimp](https://www.gimp.org/) | | |
-| Vector graphics | [Inkscape](https://inkscape.org/) | | |
-| Video player | [VLC Player](https://www.videolan.org/vlc/) | | |
-| Window management | [Rectangle](https://rectangleapp.com/) | | |
-| Backup | [Free File Sync](https://freefilesync.org/) | | |
-| Hardware monitoring | [i-nex](https://github.com/i-nex/I-Nex) | | |
+| Microblogging | [Mastodon](https://joinmastodon.org/de/servers) | Twitter/X | |
+
+
+## Computer
+| Software | Name | Description | Alternative to | Reason/Comment |
+| --- | --- | --- | --- | --- |
+| OS | [Manjaro Linux](https://de.manjaro.org/) or [NixOS](https://nixos.org/) | Linux distribution | MacOs/Windows | Used Arch before but maintenance was too cumbersome |
+| Browser | [Firefox](https://www.mozilla.org/en-US/firefox/) | | Chrome/Safari/... | |
+| Mail-Client | [Thunderbird](https://www.thunderbird.net/) | | | |
+| SQL | [DBeaver](https://dbeaver.io/) | | | |
+| Terminal | [Alacritty](https://alacritty.org/) | | | |
+| Image manipulation | [Gimp](https://www.gimp.org/) | | Photoshop | Lacks bleeding edge magic but highly configurable and good despite steep learning curve |
+| Vector graphics | [Inkscape](https://inkscape.org/) | | Adobe suite | |
+| Video player | [VLC Player](https://www.videolan.org/vlc/) | | | |
+| Window management | [Rectangle](https://rectangleapp.com/) | | | |
+| Backup | [Free File Sync](https://freefilesync.org/) | | | Just works, pre-defined exportable configs for backup and mirroring hard drives |
 
 
 
 ## Phone
-I'm currently using the Fairphone 2 with the Fairphone Open OS.
 
-| Software | Name | Description | Reason/Comment |
-| --- | --- | --- | --- |
-| Google Apps | [OpenGAPPS](https://opengapps.org/) | | Still using some Google apps, but this way I control which ones ([flashed OpenGAPPS pico package](https://forum.fairphone.com/t/pencil2-install-opengapps-step-by-step-guide/17524?u=johannes&source_topic_id=22507) using  [TWRP](https://twrp.me/)) |
-| FOSS Playstore | [F-Droid](https://f-droid.org/) | | |
-| Reddit Client | [Slide for Reddit](https://github.com/ccrama/Slide) | | |
+| Software | Name | Description | Alternative to | Reason/Comment |
+| --- | --- | --- | --- | --- |
+| Playstore | [F-Droid](https://f-droid.org/) | | Google Playstore | |
+| Podcast-App Android | [AntennaPod](https://antennapod.org/de/) | | Spotify etc. | |
